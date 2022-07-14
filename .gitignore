@@ -1,0 +1,6 @@
+# Project exclude paths
+target/
+*.iws
+.idea
+.DS_Store
+simple-cucumber-demo.iml
